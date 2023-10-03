@@ -1,6 +1,4 @@
-
-![1_xiDj73t-bBDLZJ_GUlDnbw](https://github.com/Eduardo-Luizz/Eduardo-Luizz/assets/91149760/7cddd036-c73c-46de-83d8-0320a400df33)
-h1 align="center">Hi 👋, I'm Eduardo Luiz Zanotto</h1>
+<h1> align="center">Hi 👋, I'm Eduardo Luiz Zanotto</h1>
 <h3 align="center">I'm passionate about software development from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-luizz&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-luizz" /> </p>
