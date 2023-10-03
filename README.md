@@ -1,4 +1,10 @@
-<h1> Hi 👋, I'm Eduardo Luiz Zanotto</h1>
+
+
+![DreamShaper_v7_Create_a_banner_for_me_to_put_in_my_git_hub_rea_3](https://github.com/Eduardo-Luizz/Eduardo-Luizz/assets/91149760/40c4d629-28e6-454f-bb26-9d8c457b8654)
+
+
+
+<h1 align="center"> Hi 👋, I'm Eduardo Luiz Zanotto</h1>
 <h3 align="center">I'm passionate about software development from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-luizz&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-luizz" /> </p>
