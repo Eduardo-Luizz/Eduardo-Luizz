@@ -1,9 +1,4 @@
 
-![DreamShaper_v7_Create_a_banner_for_me_to_put_in_my_git_hub_rea_3](https://github.com/Eduardo-Luizz/Eduardo-Luizz/assets/91149760/5737717d-93a5-42b3-a721-5dfd03ff5bc3)
-
-
-
-
 <h1 align="center"> Hi 👋, I'm Eduardo Luiz Zanotto</h1>
 <h3 align="center">I'm passionate about software development from Brazil</h3>
 
