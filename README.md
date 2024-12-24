@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-luizz&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-luizz" /> </p>
 
-- 🔭 I’m currently working on [Onebitflix project, an online course platform](https://github.com/Eduardo-Luizz/Projeto_OneBitFlix)
+- 🔭 I’m currently working on Spring boot API
 
-- 🌱 I’m currently learning **React, NodeJS, Typescript**
+- 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **eduardoluizzanoto@gmail.com**
 
